@@ -76,6 +76,6 @@ Para rodar o projeto, execute o comando:
 
 - Health Check: http://localhost:8080/q/health/
 
-- Swagger UI (Documentação da API): http://localhost:8080/q/swagger-ui/
+- Swagger UI (Documentação da API): http://localhost:8080/q/swagger-ui/ (também é possível testar no postman através do collection que está na raiz do projeto)
 
 - Grafana Dashboards: http://localhost:3000/dashboards (para facilitar o teste do avaliador foi mantido o login "admin" e a senha "admin" para o grafana)
